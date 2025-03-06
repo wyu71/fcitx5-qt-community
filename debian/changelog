@@ -1,3 +1,9 @@
+fcitx5-qt (5.1.8-2deepin2) unstable; urgency=medium
+
+  * Add safety checks for watcher pointers in QFcitxPlatformInputContext.
+
+ -- Wang Yu <wangyu@uniontch.com>  Thu, 06 Mar 2025 17:01:42 +0800
+
 fcitx5-qt (5.1.8-2deepin1) unstable; urgency=medium
 
   * New upstream release.
